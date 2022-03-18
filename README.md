@@ -26,5 +26,5 @@ If using Infura, update .infuraid with your Infura project ID.
 
 ![screen shot - create a book](./create-a-book.png)
 ![screen shot - list all books](./list-all-books.png)
-![screen recording - buy a book](./creating-buying.mov)
+![screen recording - buy a book](./mov-bookstore.mov)
 
